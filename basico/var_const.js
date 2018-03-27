@@ -3,6 +3,6 @@
 var mi_variable = 35
 
 // Las constantes se declaran con La
-// palabra reservada var
+// palabra reservada const
 
 const mi_variable = 35
